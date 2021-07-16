@@ -1,0 +1,9 @@
+C:\projet\Si4\btnWinForms\btnWinForms\bin\Debug\btnWinForms.exe.config
+C:\projet\Si4\btnWinForms\btnWinForms\bin\Debug\btnWinForms.exe
+C:\projet\Si4\btnWinForms\btnWinForms\bin\Debug\btnWinForms.pdb
+C:\projet\Si4\btnWinForms\btnWinForms\obj\Debug\btnWinForms.csprojAssemblyReference.cache
+C:\projet\Si4\btnWinForms\btnWinForms\obj\Debug\btnWinForms.Form1.resources
+C:\projet\Si4\btnWinForms\btnWinForms\obj\Debug\btnWinForms.Properties.Resources.resources
+C:\projet\Si4\btnWinForms\btnWinForms\obj\Debug\btnWinForms.csproj.GenerateResource.cache
+C:\projet\Si4\btnWinForms\btnWinForms\obj\Debug\btnWinForms.exe
+C:\projet\Si4\btnWinForms\btnWinForms\obj\Debug\btnWinForms.pdb
